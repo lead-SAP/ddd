@@ -1,5 +1,5 @@
 # ddd
-GitHub Repository for Eastern Mediterranean University Graduation Project (Group1)
+                                 GitHub Repository for Eastern Mediterranean University Graduation Project (Group1)
 ***DISCLAIMER***
 "Real-Time Driver Distraction Detection for Android & iOS Devices using Machine Learning Techniques"
 
