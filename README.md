@@ -1,7 +1,8 @@
 # ddd
                                  GitHub Repository for Eastern Mediterranean University Graduation Project (Group1)
 ***DISCLAIMER***
-"Real-Time Driver Distraction Detection for Android & iOS Devices using Machine Learning Techniques"
+
+                           "Real-Time Driver Distraction Detection for Android & iOS Devices using Machine Learning Techniques"
 
 AIM: To design and produce a mobile application native to Android and iOS operating
 systems that detects driver distractedness and then attempts to correct that action accordingly.
